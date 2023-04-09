@@ -1,2 +1,2 @@
 # glaucome-detection
-case study for glaucoma detection 
+glaucoma detection Case study 
